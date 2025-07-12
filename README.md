@@ -25,6 +25,13 @@
 
 ---
 
+## 🧠 Subjects / Skills
+
+[![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=flat&logo=keras&logoColor=white)]()
+[![Data Structures](https://img.shields.io/badge/Data%20Structures-Important%20DSA-orange?style=flat&logo=c%2B%2B&logoColor=white)]()
+[![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-green?style=flat&logo=raspberry-pi&logoColor=white)]()
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-9cf?style=flat&logo=opencv&logoColor=white)]()
+
 ## 🚀 Projects
 
 - **🌱 IoT Plant Automation System**  
@@ -75,7 +82,7 @@
 
 ## 📂 Resume
 
-📄 [Click here to download my resume (PDF)](https://github.com/ManyaLuthra/ManyaLuthra/raw/main/ManyaLuthra_Resume.pdf)
+📄 [Click here to download my resume (PDF)](https://github.com/ManyaLuthra/ManyaLuthra/raw/main/)
 
 ---
 
