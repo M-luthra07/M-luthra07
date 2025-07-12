@@ -80,12 +80,6 @@
 
 ---
 
-## 📂 Resume
-
-📄 [Click here to download my resume (PDF)](https://github.com/ManyaLuthra/ManyaLuthra/raw/main/)
-
----
-
 ## 📫 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luthramanya77@gmail.com)
