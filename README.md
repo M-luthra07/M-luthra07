@@ -45,12 +45,7 @@
 
 - **🛍️ E-commerce Sentiment Analysis Dashboard** 
    Built an AI system classifying reviews (87% accuracy). Predicts ratings (0.99 AUC) using Python/NLP. Deployed Flask dashboard on Railway.
-  GitHub: https://github.com/M-luthra07/E-commerce-website-Analysis Live Demo: https://e-commerce-website-analysis-production.up.railway.app 
-  
-  
-  
-  
-
+  GitHub: https://github.com/M-luthra07/E-commerce-website-Analysis Live Demo: https://m-luthra07-e-commerce-website-analysis-production.up.railway.app 
 ---
 
 ## 🏆 Achievements
