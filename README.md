@@ -36,17 +36,26 @@
 
 - **🌱 IoT Plant Automation System**  
   Real-time plant environment control using Arduino & IoT sensors.
+  LiveDemo:[demo](https://github.com/M-luthra07/Portfolio-Manya/blob/main/assests/WhatsApp%20Video%202025-05-02%20at%2014.25.40_5e5b84b6.mp4)
 
 - **📰 Fake News Detection Model**  
   Hybrid BERT-LSTM-SVM classifier with 92.3% accuracy on 23K+ articles.
 
 - **🍷Red Wine Quality Prediction Model**
   Developed an ML-powered web app to predict wine quality from chemical properties, featuring real-time input and model performance visualization.
-  GitHub: https://github.com/M-luthra07/Red-Wine-Prediction-model  Live Demo:https://github.com/M-luthra07/Red-Wine-Prediction-model/tree/main/demo 
+  GitHub:[Github](https://github.com/M-luthra07/Red-Wine-Prediction-model)
+  LiveDemo:[demo](https://github.com/M-luthra07/Red-Wine-Prediction-model/tree/main/demo)
   
 - **🛍️ E-commerce Sentiment Analysis Dashboard** 
    Built an AI system classifying reviews (87% accuracy). Predicts ratings (0.99 AUC) using Python/NLP. Deployed Flask dashboard on Railway.
-  GitHub:  https://github.com/M-luthra07/E-commerce-website-Analysis  Live Demo: https://github.com/M-luthra07/E-commerce-website-Analysis/tree/main/demo  
+   GitHub:[Github](https://github.com/M-luthra07/E-commerce-website-Analysis)
+   LiveDemo:[demo](https://github.com/M-luthra07/E-commerce-website-Analysis/tree/main/demo)
+
+- **✨💻 Portfolio Website**
+   Built a sleek, responsive personal portfolio using HTML, CSS & JS to showcase my projects & skills
+   GitHub:[Github](https://github.com/M-luthra07/Portfolio-Manya/tree/main)
+   LiveDemo:[demo](https://m-luthra07.github.io/Portfolio-Manya/)
+  
 ---
 
 ## 🏆 Achievements
