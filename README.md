@@ -40,12 +40,13 @@
 - **📰 Fake News Detection Model**  
   Hybrid BERT-LSTM-SVM classifier with 92.3% accuracy on 23K+ articles.
 
-- **🧊 AI-based Refrigeration System**  
-  Smart temperature optimization using IoT & ML (Patent filed in Germany 🇩🇪).
-
+- **🍷Red Wine Quality Prediction Model**
+  Developed an ML-powered web app to predict wine quality from chemical properties, featuring real-time input and model performance visualization.
+  GitHub: https://github.com/M-luthra07/Red-Wine-Prediction-model  Live Demo:https://github.com/M-luthra07/Red-Wine-Prediction-model/tree/main/demo 
+  
 - **🛍️ E-commerce Sentiment Analysis Dashboard** 
    Built an AI system classifying reviews (87% accuracy). Predicts ratings (0.99 AUC) using Python/NLP. Deployed Flask dashboard on Railway.
-  GitHub: https://github.com/M-luthra07/E-commerce-website-Analysis Live Demo: https://m-luthra07-e-commerce-website-analysis-production.up.railway.app 
+  GitHub:  https://github.com/M-luthra07/E-commerce-website-Analysis  Live Demo: https://github.com/M-luthra07/E-commerce-website-Analysis/tree/main/demo  
 ---
 
 ## 🏆 Achievements
