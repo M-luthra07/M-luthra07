@@ -38,6 +38,12 @@
   Real-time plant environment control using Arduino & IoT sensors.
   [LiveDemo](https://github.com/M-luthra07/Portfolio-Manya/blob/main/assests/WhatsApp%20Video%202025-05-02%20at%2014.25.40_5e5b84b6.mp4)
 
+- ** ⚡ OCR Flask based Web App with Azure SQL Integration**  
+ Built a Flask-based web app using Tesseract OCR to extract and analyze values/units from images in real-time, with intelligent unit correction. Implemented Azure SQL for data storage and deployed it, featuring   interactive dashboards for data visualization.
+ [Github](https://github.com/M-luthra07/Flask-based-OCR-Detection)
+ [LiveDemo](https://github.com/M-luthra07/Flask-based-OCR-Detection/blob/main/demo)
+
+
 - **📰 Fake News Detection Model**  
   Hybrid BERT-LSTM-SVM classifier with 92.3% accuracy on 23K+ articles.
 
@@ -70,6 +76,8 @@
 - 🛠 **ISHRAE HVAC&R Hackathon** – Participant  
 - 🌍 **Regional Conclave on Tech Innovation** – Attendee  
 - ✨ **HackUtsav 1.0** – Student Coordinator
+- 🥇LeetCode Daily Coding Challenge (DCC) Badge – July 2025
+- 🥇50 Days Leetcode Badge   
 
 ---
 
