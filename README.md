@@ -76,7 +76,7 @@
 - 🌍 **Regional Conclave on Tech Innovation** – Attendee  
 - ✨ **HackUtsav 1.0** – Student Coordinator
 - 🥇LeetCode Daily Coding Challenge (DCC) Badge – July 2025
-- 🥇50 Days Leetcode Badge   
+- 🥇50 days LeetCode Coding Challenge Badge
 
 ---
 
