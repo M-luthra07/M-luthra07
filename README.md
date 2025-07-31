@@ -43,7 +43,6 @@
  [Github](https://github.com/M-luthra07/Flask-based-OCR-Detection)
  [LiveDemo](https://github.com/M-luthra07/Flask-based-OCR-Detection/blob/main/demo)
 
-
 - **📰 Fake News Detection Model**  
   Hybrid BERT-LSTM-SVM classifier with 92.3% accuracy on 23K+ articles.
 
