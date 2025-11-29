@@ -15,7 +15,7 @@ I am an **AI & ML Enthusiast** passionate about building intelligent, real-world
 ## 💻 Technical Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,mysql,azure,tensorflow,opencv,arduino,git,matlab&perline=14" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,flask,mysql,azure,tensorflow,opencv,arduino,git,github,matlab,numpy,pandas,sklearn,vscode&perline=10" alt="My Skills" />
 </a>
 
 **Core Proficiencies:**
@@ -136,6 +136,7 @@ Active problem solver on LeetCode with multiple badges:
 -   🎓 **Merit Scholarship** – The NorthCap University
 
 ---
+
 
 
 ## 📬 Contact
