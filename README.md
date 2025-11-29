@@ -1,7 +1,5 @@
 # Manya Luthra - AI & ML Portfolio
 
-Welcome to the personal portfolio website of **Manya Luthra**, a Computer Science Engineering (AI & ML) undergraduate at The NorthCap University. This portfolio showcases my projects, skills, patents, professional experience, and achievements in the field of Artificial Intelligence, Machine Learning, and IoT.
-
 ## 🚀 About Me
 
 I am an **AI & ML Enthusiast** passionate about building intelligent, real-world solutions through cutting-edge technology. Currently pursuing my B.Tech in Computer Science (AI & ML) at **The NorthCap University** with a CGPA of **8.83**.
