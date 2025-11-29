@@ -1,103 +1,47 @@
-# 👋 Hi, I'm Manya Luthra
+# Manya Luthra - AI & ML Portfolio
 
-🎓 CSE (Artificial Intelligence & Machine Learning) Undergraduate @ The NorthCap University  
-📍 Gurugram, Haryana, India  
-📫 luthramanya77@gmail.com | manya22csu458@ncuindia.edu
+Welcome to the personal portfolio website of **Manya Luthra**, a Computer Science Engineering (AI & ML) undergraduate at The NorthCap University. This portfolio showcases my projects, skills, patents, professional experience, and achievements in the field of Artificial Intelligence, Machine Learning, and IoT.
 
----
+## 🚀 Overview
 
-## 💻 Tech Stack
+This website serves as a digital resume and showcase of my technical journey. It highlights my passion for building intelligent, real-world solutions through cutting-edge technology, including my work in IoT, Computer Vision, NLP, and Full-Stack Development.
 
-### Languages
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+## 🌟 Features & Sections
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+The portfolio is structured into the following key sections:
 
-### Tools & Platforms
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=mathworks)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white)
+-   **About Me**: A brief introduction to my background, education, and career goals.
+-   **Featured Projects**: A showcase of my key projects, including:
+    -   **ESP32 Smart Look**: Advanced IoT system for smart monitoring.
+    -   **OCR Flask Web App**: Enterprise-grade OCR application with Azure SQL.
+    -   **RoadSight Lane Detection**: Computer vision system for autonomous driving.
+    -   **Social Network Analysis**: Graph analytics and network visualization tool.
+    -   **E-Constitution Connect**: NLP-powered legal document analysis platform.
+    -   **IoT Plant Automation**: Smart plant monitoring system.
+    -   **E-commerce Sentiment Analysis**: AI system for customer review classification.
+-   **Technical Skills**: A comprehensive list of my technical proficiencies, ranging from programming languages (Python, Java) to frameworks (Flask, TensorFlow) and tools (Azure, Git).
+-   **Patents & Innovations**: Details about my granted and filed patents:
+    -   **Water Management System** (Indian Patent)
+    -   **Intelligent Cooling System** (German Utility Patent)
+-   **Professional Experience**: Information about my internships at **Rockwell Automation** and **Microsoft Azure AI Fundamentals**.
+-   **Clubs & Community Service**: My involvement in extracurricular activities and community service (Yatan NGO, Innovate to Elevate, ISHRAE, NSS).
+-   **Certifications**: A collection of my professional certifications in AI, NLP, and Web Development.
+-   **LeetCode Achievements**: Display of my coding milestones and badges.
+-   **Education**: My academic background.
+-   **Achievements & Leadership**: Awards, hackathon participations, and scholarships.
+-   **Connect**: Links to my professional profiles (GitHub, LinkedIn, LeetCode) and contact information.
 
----
+## 🛠️ Technologies Used
 
-## 🧠 Subjects / Skills
+## 📬 Contact
 
-[![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=flat&logo=keras&logoColor=white)]()
-[![Data Structures](https://img.shields.io/badge/Data%20Structures-Important%20DSA-orange?style=flat&logo=c%2B%2B&logoColor=white)]()
-[![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-green?style=flat&logo=raspberry-pi&logoColor=white)]()
-[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-9cf?style=flat&logo=opencv&logoColor=white)]()
+Feel free to reach out to me for collaborations, opportunities, or just to say hi!
 
-## 🚀 Projects
-
-- **🌱 IoT Plant Automation System**  
-  Real-time plant environment control using Arduino & IoT sensors.
-  [LiveDemo](https://github.com/M-luthra07/Portfolio-Manya/blob/main/assests/WhatsApp%20Video%202025-05-02%20at%2014.25.40_5e5b84b6.mp4)
-
-- ** ⚡ OCR Flask based Web App with Azure SQL Integration**  
- Built a Flask-based web app using Tesseract OCR to extract and analyze values/units from images in real-time, with intelligent unit correction. Implemented Azure SQL for data storage and deployed it, featuring   interactive dashboards for data visualization.
- [Github](https://github.com/M-luthra07/Flask-based-OCR-Detection)
- [LiveDemo](https://github.com/M-luthra07/Flask-based-OCR-Detection/blob/main/demo)
-
-- **📰 Fake News Detection Model**  
-  Hybrid BERT-LSTM-SVM classifier with 92.3% accuracy on 23K+ articles.
-
-- **🍷Red Wine Quality Prediction Model**
-  Developed an ML-powered web app to predict wine quality from chemical properties, featuring real-time input and model performance visualization.
-  [Github](https://github.com/M-luthra07/Red-Wine-Prediction-model)
-  [LiveDemo](https://github.com/M-luthra07/Red-Wine-Prediction-model/tree/main/demo)
-  
-- **🛍️ E-commerce Sentiment Analysis Dashboard** 
-   Built an AI system classifying reviews (87% accuracy). Predicts ratings (0.99 AUC) using Python/NLP. Deployed Flask dashboard on Railway.
-   [Github](https://github.com/M-luthra07/E-commerce-website-Analysis)
-   [LiveDemo](https://github.com/M-luthra07/E-commerce-website-Analysis/tree/main/demo)
-
-- **✨💻 Portfolio Website**
-   Built a sleek, responsive personal portfolio using HTML, CSS & JS to showcase my projects & skills
-   [Github](https://github.com/M-luthra07/Portfolio-Manya/tree/main)
-   [LiveDemo](https://m-luthra07.github.io/Portfolio-Manya/)
-  
----
-
-## 🏆 Achievements
-
-- 🧠 **Smart India Hackathon 2023 & 2024** – Finalist  
-- 📜 **Patent Granted** – "Water Management System" (India, 2023)  
-- ❄️ **German Patent Filed** – Smart Refrigeration System (2025)  
-- 🥈 **2nd Place** – ACM Code Rush @ NCU  
-- 🥇 **Reconciliation Prize** – Ideathon @ NCU  
-- 📚 **Merit Scholarship** – The NorthCap University, 2023  
-- 🧑‍💼 **Vice President** – Innovate to Elevate Club  
-- 🛠 **ISHRAE HVAC&R Hackathon** – Participant  
-- 🌍 **Regional Conclave on Tech Innovation** – Attendee  
-- ✨ **HackUtsav 1.0** – Student Coordinator
-- 🥇LeetCode Daily Coding Challenge (DCC) Badge – July 2025
-- 🥇50 days LeetCode Coding Challenge Badge
+-   **Email**: [luthramanya77@gmail.com](mailto:luthramanya77@gmail.com)
+-   **LinkedIn**: [Manya Luthra](https://www.linkedin.com/in/manya-luthra-7b20b8266/)
+-   **GitHub**: [M-luthra07](https://github.com/M-luthra07)
+-   **LeetCode**: [manya22csu458](https://leetcode.com/u/manya22csu458/)
 
 ---
+© 2025 Manya Luthra • Crafted with 💜 and ☕
 
-## 📜 Certifications
-
-- Microsoft Azure AI Fundamentals (AI-900)  
-- PrepInsta – JavaScript ES6, HTML, CSS  
-- Apna College – Alpha DSA Course  
-- Microsoft Certified – Azure Fundamentals (via Unique Training Solutions)
-
----
-
-## 🤝 Volunteering
-
-- 📢 **Social Media Team** – NSS Society, NCU  
-- 👩‍🏫 **Literacy & Skill Drives** – Yatan NGO  
-- 💡 Passionate about uplifting rural communities through tech & education
-
----
-
-## 📫 Connect with Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](luthramanya77@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manya-luthra-7b20b8266/)
