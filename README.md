@@ -108,12 +108,12 @@ AI system classifying customer reviews with **87% accuracy** and predicting rati
 ## 🏅 LeetCode Achievements
 
 Active problem solver on LeetCode with multiple badges:
-<div style="display: flex; gap: 10px;">
-  <img src="assests/leetcode 50 badge.jpg" alt="50 Days Badge" width="100" />
-  <img src="assests/leetcode100 badge.png" alt="100 Days Badge" width="100" />
-  <img src="assests/leetcode_july.png" alt="July Badge" width="100" />
-  <img src="assests/leetcode september.png" alt="September Badge" width="100" />
-  <img src="assests/leetcode octpng.png" alt="October Badge" width="100" />
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/LeetCode-50_Days_Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="50 Days Badge" />
+  <img src="https://img.shields.io/badge/LeetCode-100_Days_Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="100 Days Badge" />
+  <img src="https://img.shields.io/badge/LeetCode-July_Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="July Badge" />
+  <img src="https://img.shields.io/badge/LeetCode-September_Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="September Badge" />
+  <img src="https://img.shields.io/badge/LeetCode-October_Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="October Badge" />
 </div>
 
 [**View LeetCode Profile**](https://leetcode.com/u/manya22csu458/)
