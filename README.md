@@ -122,7 +122,7 @@ Active problem solver on LeetCode with multiple badges:
 
 **B.Tech in Computer Science Engineering (AI & ML)**
 *The NorthCap University, Gurugram (2022 – 2026)*
--   **CGPA**: 8.83/10
+-   **CGPA**: 8.94/10
 
 **Class 12 (CBSE)**
 *St. Michael Sr. Sec. School (2022)*
