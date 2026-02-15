@@ -114,7 +114,7 @@ Active problem solver on LeetCode with multiple badges:
   <img src="https://img.shields.io/badge/LeetCode-October_Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="October Badge" />
 </div>
 
-[**View LeetCode Profile**](https://leetcode.com/u/manya22csu458/)
+[**View LeetCode Profile**](https://leetcode.com/u/ManyaLuthra/)
 
 ---
 
