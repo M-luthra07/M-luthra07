@@ -1,6 +1,6 @@
 <!-- ===================== SCREENSHOT ===================== -->
 <p align="center">
-  <img src="dashboard.png" width="100%" />
+  <img src="Dashboard.png" width="100%" />
 </p>
 
 <!-- ===================== NAME ===================== -->
