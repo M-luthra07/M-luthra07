@@ -48,15 +48,12 @@ I’m always open to collaboration and tech discussions 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-luthra07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=M-luthra07&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-luthra07&theme=tokyonight" />
 </p>
-
----
-
 <!-- ===================== SNAKE ===================== -->
 ## 🐍 Contribution Snake
 
