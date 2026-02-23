@@ -55,6 +55,12 @@ I’m always open to collaboration and tech discussions 🚀
   <img src="https://streak-stats.demolab.com?user=M-luthra07&theme=github-dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-luthra07&layout=compact&theme=github_dark" />
+</p>
+
+
+
 
 <!-- ===================== SNAKE ===================== -->
 ## 🐍 Contribution Snake
