@@ -40,7 +40,7 @@ I’m always open to collaboration and tech discussions 🚀
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ManyaLuthra?theme=dark&font=Baloo&ext=contest" />
-</p>
+</p>  
 
 ---
 
