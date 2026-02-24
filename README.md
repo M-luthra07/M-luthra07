@@ -45,15 +45,14 @@ I’m always open to collaboration and tech discussions 🚀
 ---
 
 <!-- ===================== GITHUB STATS ===================== --> 
-## 📊 GitHub Stats
+## Github Status
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-luthra07&theme=github_dark&cache_seconds=1800" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-luthra07&theme=github_dark&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=M-luthra07&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-luthra07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
 </p>
 
 
