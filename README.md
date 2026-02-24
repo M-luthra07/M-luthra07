@@ -33,7 +33,7 @@ I’m always open to collaboration and tech discussions 🚀
   </a>
 </p>
 
----
+--- 
 
 <!-- ===================== LEETCODE STATS ===================== -->
 ## 🧠 LeetCode Stats
@@ -44,7 +44,7 @@ I’m always open to collaboration and tech discussions 🚀
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB STATS ===================== --> 
 ## 📊 GitHub Stats
 
 <p align="center">
