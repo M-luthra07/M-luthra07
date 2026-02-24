@@ -14,7 +14,7 @@
 Feel free to contact me at **luthramanya77@gmail.com**  
 I’m always open to collaboration and tech discussions 🚀
 
----
+---  
 
 <!-- ===================== SOCIAL ICONS ===================== -->
 <h3 align="center">Connect with me:</h3>
