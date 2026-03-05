@@ -2,7 +2,7 @@
 <p align="center">
   <img src="Dashboard.png" width="100%" />
 </p>
-
+ 
 <!-- ===================== NAME ===================== -->
 <h1 align="center">Hi 👋, I'm Manya Luthra</h1>
 <h3 align="center">DSA | AI & ML Enthusiast | IOT | Computer Vision | NLP </h3>
